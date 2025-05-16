@@ -1,5 +1,5 @@
-# prueba
+# Repositorio de prueba
 Prueba para manejar archivos desde GIT BASH.
 
-# descripción
+# Descripción
 Hasta es una prueba lol
